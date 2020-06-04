@@ -22,6 +22,7 @@ export default class Link extends Component {
       offsetKey, // eslint-disable-line no-unused-vars
       setEditorState, // eslint-disable-line no-unused-vars
       contentState, // eslint-disable-line no-unused-vars
+      blockKey, // eslint-disable-line no-unused-vars
       ...otherProps
     } = this.props;
 
